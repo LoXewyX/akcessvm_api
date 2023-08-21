@@ -4,7 +4,7 @@ This project is inspired by the work of [@DaveGrayTeachesCode](https://github.co
 
 ## Introduction
 
-This version of the project extends the original codebase to include TypeScript migration and version migration to React v18. It is intended for educational purposes and is **not for commercial use or resale**.
+This version of the project extends the original codebase to include TypeScript migration and version migration to Express 4. It is intended for educational purposes and is **not for commercial use or resale**.
 
 ## Credits
 
@@ -13,7 +13,7 @@ This version of the project extends the original codebase to include TypeScript 
 
 ## Purpose
 
-The primary aim of this project is educational. By building upon the original work, we explore TypeScript integration and compatibility with React v18. This project serves as a learning exercise and should not be used for any commercial purposes.
+The primary aim of this project is educational. By building upon the original work, we explore TypeScript integration and compatibility with Express 4. This project serves as a learning exercise and should not be used for any commercial purposes.
 
 ## Academic Honesty
 
